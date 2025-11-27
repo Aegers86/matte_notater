@@ -18,6 +18,10 @@ Når du deler så deler du tallene og trekker fra eksponenten
 OBS OBS! LUREMUS LUREMUS! Om du har et tall med positiv eksponent dele på et tall med negativ eksponent, blir det pluss istedet for minus. (Why are you like this math!)
 
 <img width="216" height="141" alt="image" src="https://github.com/user-attachments/assets/dcede81c-32b2-4f9e-af65-1e0c6d791330" />
+•	Naturlige tall: N={1,2,3,… }\mathbb{N} = \{1, 2, 3, \dots\}N={1,2,3,…}
+•	Hele tall: Z={…,−2,−1,0,1,2,…}\mathbb{Z} = \{…, -2, -1, 0, 1, 2, …\}Z={…,−2,−1,0,1,2,…}
+•	Rasjonale tall: Q\mathbb{Q}Q = tall som kan skrives som brøk
+•	Reelle tall: R\mathbb{R}R = alle rasjonale + irrasjonale tall som π,2\pi, \sqrt{2}π,2
 
 
 Potenser:
